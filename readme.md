@@ -4,7 +4,7 @@ This repository hosts a Terraform-managed, event-driven infrastructure on AWS, d
 
 # AWS Infrastructure Diagram
 
-![AWS Diagram](/aws-diagram.png)
+![AWS Diagram](/aws-diagram.png) 
 
 # How it works
 
